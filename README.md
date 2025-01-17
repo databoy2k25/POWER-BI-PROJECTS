@@ -43,8 +43,8 @@ This project demonstrates my skills in data visualization, storytelling, and dat
 ## About Me
 I’m an aspiring **Data Analyst** passionate about data-driven storytelling. I’m currently honing my skills in Power BI, SQL, and Python to prepare for a career in data analytics.
 
-💬 **Let’s connect**: [Your LinkedIn Profile URL]  
-📧 **Email**: [Your Email Address]  
+💬 **Let’s connect**: https://www.linkedin.com/in/muhammed-ziyad-34183a311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+📧 **Email**:ziyadali02@gmail.com
 
 ---
 
