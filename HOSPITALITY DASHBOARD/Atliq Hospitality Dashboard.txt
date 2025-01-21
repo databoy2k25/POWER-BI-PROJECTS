@@ -1,0 +1,34 @@
+# Atliq Hospitality Dashboard
+
+## Overview
+The **Atliq Hospitality Dashboard** provides a comprehensive visualization of key metrics for the hospitality industry, enabling data-driven decision-making and performance tracking. This dashboard is designed to help stakeholders understand revenue trends, occupancy rates, and platform-level performance for optimal strategy development.
+
+## Features
+- **Revenue Metrics**: Visualizes total revenue, RevPAR (Revenue per Available Room), ADR (Average Daily Rate), and realization percentage with week-on-week comparisons.
+- **Occupancy Insights**: Displays overall occupancy rates and day-type trends (weekend vs. weekday).
+- **Platform Performance**: Compares realization percentages and ADR across various booking platforms.
+- **Property Metrics**: Highlights property-level performance by city, including revenue, occupancy, DSRN (Daily Stay Realization Number), and customer ratings.
+- **Key Trends**: Interactive line charts to monitor weekly trends in occupancy, ADR, and realization.
+
+## Key Metrics
+- **Revenue**: Total revenue of **1.69bn** with week-over-week growth.
+- **RevPAR**: **7,337** with detailed weekend and weekday breakdowns.
+- **Occupancy Rate**: **57.8%**, broken down by weekend and weekday performance.
+- **Realization Percentage**: **70.1%**, visualized across different booking platforms.
+
+## Technologies Used
+- **Data Source**: Hospitality and booking systems.
+- **Visualization Tool**: Power BI.
+
+## How to Use
+1. Clone the repository to your local machine.
+2. Access the dashboard file or images for insights.
+3. Use the interactive filters (city, room class, and booking category) for personalized views.
+
+## Purpose
+This dashboard is designed for business analysts, operations managers, and decision-makers in the hospitality industry to monitor and improve performance across properties.
+
+---
+**Screenshot**:
+
+![Atliq Hospitality Dashboard](path/to/screenshot.png)
