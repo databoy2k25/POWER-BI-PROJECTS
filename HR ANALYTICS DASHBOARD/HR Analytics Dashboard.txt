@@ -1,0 +1,54 @@
+# HR Analytics Dashboard
+
+## Overview
+This project is a Power BI dashboard that provides insights into HR metrics such as headcount, average salary, leave balance, and demographic details across various job titles.
+
+## Features
+- **Average Leave Balance (LBL):** Displays the overall average leave balance for employees.
+- **Average Salary:** Highlights the average salary across the organization.
+- **Headcount:** Shows the total number of employees.
+- **Headcount Analysis:**
+  - By Age and Gender
+  - By Job Title
+  - By Gender
+- **Leave Balance Insights:** Compares leave balances by job titles.
+- **Salary and Qualification Relationship:** Visualizes the correlation between salary and educational qualifications.
+
+## Visualizations
+- **Bar Charts:** Used for headcount and leave balance comparisons.
+- **Pie Chart:** Displays gender distribution.
+- **Scatter Plot:** Represents the salary and qualification relationship.
+- **Key Metrics:** Highlights average salary, total headcount, and leave balance over 20 days.
+
+## Tools Used
+- **Power BI** for data visualization.
+- **Data Source:** [Specify the source of your data, e.g., Excel, SQL, or any other].
+
+## How to Use
+1. Download the Power BI `.pbix` file from this repository.
+2. Open the file using Power BI Desktop.
+3. Explore the dashboard and filter the data as needed.
+
+
+
+## Insights Gained
+1. **Job Title Analysis:**
+   - The highest headcount is for the **Packaging Associate** position.
+   - The lowest headcount is for **Research Scientist**, indicating this role is more specialized.
+2. **Gender Distribution:**
+   - 54.66% of the workforce is male, while 45.33% is female.
+3. **Leave Balance Insights:**
+   - Employees in **Marketing Manager** and **Production Operator** roles have the highest average leave balance.
+   - Employees in **Research Analyst** roles have the lowest average leave balance.
+4. **Salary Trends:**
+   - Salaries for employees with **Master’s Degrees** are generally higher than those with lower qualifications.
+   - A positive correlation is observed between qualifications and salary levels.
+5. **Age Distribution:**
+   - Most employees are in the 30-40 age group, while very few are above 60.
+6. **Key Metric Highlights:**
+   - Average Salary: $54.23K
+   - Average Leave Balance: 16.42 days
+   - Total Headcount: 161
+   - Leave Balances over 20 days: 29 employees
+
+
